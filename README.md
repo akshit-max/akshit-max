@@ -31,7 +31,7 @@ A highly motivated MERN Stack Developer in the making and a regular problem solv
 📦 AWS Cloud Deployments – Hosting apps on EC2, managing static files on S3, securing resources via IAM
 
 📫 Connect with Me
-📧 Email: akshit.2428it1162@kiet.edu
+📧 Email: akshitbhandula@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/akshit-bhandula-568772318/
 

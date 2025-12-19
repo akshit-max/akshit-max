@@ -39,7 +39,10 @@ A highly motivated MERN Stack Developer in the making and a regular problem solv
 
 📄 Resume: https://drive.google.com/file/d/1dqNQgo3lvEXhm_eBdlH091gjoERPE8b5/view?usp=sharing
 
-⚙️ Codolio Link: https://codolio.com/profile/GOD_AK
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d37de4b4-2c8f-45da-a75a-32b23cba1c7d" />
+ Codolio Link: https://codolio.com/profile/GOD_AK 
+
+ 
 
 🚀 Let’s build, debug, and grow — one line of code at a time.
 

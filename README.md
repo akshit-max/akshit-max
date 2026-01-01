@@ -45,14 +45,19 @@ I work with modern frontend stacks, contribute to **real production codebases**,
 
 > Most of my recent work has been in **private organization repositories**, contributed via **feature branches and pull requests**.
 
-### GitHub Stats
-![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshit-max&show_icons=true&theme=default)
+## 📊 GitHub Stats
+
+![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshit-max&show_icons=true&count_private=true)
 
 ### Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshit-max)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-max&layout=compact)
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-max&layout=compact&langs_count=8)
+
+
+
 
 ---
 

@@ -44,6 +44,8 @@
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 ![React_Hook_Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+
 
 ---
 

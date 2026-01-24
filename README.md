@@ -13,12 +13,12 @@
 ✨ Fun fact: I enjoy debugging and refactoring more than writing new code
 
 ---
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-bhandula-568772318/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshitbhandula@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/akshit-max)
+[![Email](https://img.shields.io/badge/Email-akshitbhandula%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:akshitbhandula@gmail.com)
+
 
 ---
 

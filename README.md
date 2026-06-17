@@ -97,7 +97,7 @@
 
 ### ✍️ Dev Philosophy
 
-> *“I focus on understanding why systems work, not just how to build them.”*
+> *“I focus on understanding why systems work, not just how to build them”*
 
 ---
 

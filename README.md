@@ -13,7 +13,7 @@
 ✨ Fun fact: I enjoy debugging and refactoring more than writing new code lines.
 
 ---
-## 🌐 Socials
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-bhandula-568772318/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/akshit-max)

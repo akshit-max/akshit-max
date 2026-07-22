@@ -103,4 +103,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=akshit-max&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐ *Always learning. Always improving. One system at a time.*
+⭐ *Always learning. Always improving.*

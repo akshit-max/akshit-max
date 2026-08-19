@@ -10,6 +10,7 @@
 🤝 Improving skills in **cloud deployment & DevOps fundamentals**  
 🌱 Learning **AWS, scalable backend systems, and applied AI**  
 💬 Ask me about **MERN stack, backend APIs, or system design basics**  
+💬 Ask me about **MERN stack, backend APIs, or system design basics**  
 
 
 ---

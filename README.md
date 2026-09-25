@@ -8,7 +8,7 @@
 🔭 Currently building **AI-powered full-stack applications**  
 👯 Open to collaborating on **open-source and meaningful projects**  
 🤝 Improving skills in **cloud deployment & DevOps fundamentals**  
-🌱 Learning **AWS, scalable backend systems, and applied AI**  
+🌱 Learning **AWS, scalable backend systems, and  AI**  
 💬 Ask me about **MERN stack, backend APIs, or system design basics**  
 
 

@@ -57,7 +57,7 @@
 
 ---
 
-### 🤖 AI & RAG Systems
+### 🤖 AI & RAG 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-5A5A5A?style=for-the-badge)
